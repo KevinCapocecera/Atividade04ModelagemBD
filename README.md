@@ -1,4 +1,4 @@
-📘 Projeto de Banco de Dados – README Completo
+📘 Projeto de Banco de Dados de uma Clínica Odontológica
 📌 1. Visão Geral do Projeto
 
 Este repositório contém o desenvolvimento de um banco de dados relacional completo, passando pela modelagem conceitual, lógica e física, além da implementação de operações DML (INSERT, SELECT, UPDATE, DELETE) em um SGBD.
